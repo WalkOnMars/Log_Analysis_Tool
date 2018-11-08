@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<All_Station>
+  <Station id="写号">
+    <ErrorCode>服务器显示此模块已包装</ErrorCode>
+    <ErrorCode>服务器显示模块在"校准站"未测Pass</ErrorCode>
+  </Station>
+  <Station id="校准">
+    <ErrorCode>模块已进维修系统</ErrorCode>
+    <ErrorCode>B7_Cal_RxGain,FAIL!</ErrorCode>
+    <ErrorCode>模块在写号站未测过</ErrorCode>
+    <ErrorCode>134_B38_TX1_TEST_FAIL</ErrorCode>
+    <ErrorCode>034_B7_TX0_TEST_FAIL</ErrorCode>
+    <ErrorCode>132_B42_RX_TEST_FAIL</ErrorCode>
+    <ErrorCode>035_B7_TX0_TEST_FAIL</ErrorCode>
+    <ErrorCode>132_B43_RX_TEST_FAIL</ErrorCode>
+    <ErrorCode>The band of xml and bootrom is inconsistent</ErrorCode>
+    <ErrorCode>不良描述:Disconnect</ErrorCode>
+    <ErrorCode>035_B38_TX0_TEST_FAIL</ErrorCode>
+    <ErrorCode>132_B38_RX_TEST_FAIL</ErrorCode>
+    <ErrorCode>135_B38_TX1_TEST_FAIL</ErrorCode>
+    <ErrorCode>B42_Cal_TxGain,FAIL</ErrorCode>
+    <ErrorCode>132_B7_RX_TEST_FAIL</ErrorCode>
+    <ErrorCode>132_B48_RX_TEST_FAIL</ErrorCode>
+    <ErrorCode>132_B7_RX_TEST_FAIL</ErrorCode>
+    <ErrorCode>BFFF0038:Device_Close()</ErrorCode>
+    <ErrorCode>不良描述:B7_Cal_TxGain</ErrorCode>
+    <ErrorCode>The first channel RX_RESULT_GAIN[1][0] over spec</ErrorCode>
+  </Station>
+  <Station id="版本检测">
+    <ErrorCode>服务器显示此模块已包装</ErrorCode>
+    <ErrorCode>服务器显示模块在"校准站"未测Pass</ErrorCode>
+  </Station>
+  <Station id="包装">
+    <ErrorCode>服务器显示此模块已包装</ErrorCode>
+    <ErrorCode>服务器显示模块在"校准站"未测Pass</ErrorCode>
+  </Station>
+</All_Station>

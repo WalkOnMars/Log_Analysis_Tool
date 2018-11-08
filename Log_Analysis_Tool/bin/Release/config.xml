@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<All_Station>
+  <Station id="Sn">
+  </Station>
+  <Station id="Cal">
+    <ErrorCode>BAND43,RxGainCali...</ErrorCode>
+    <ErrorCode>不良描述:BAND42,TxGainCali...</ErrorCode>
+    <ErrorCode>RxGain Calibration #0 Failed</ErrorCode>
+    <ErrorCode>不良描述:034_B42_TX0_TEST_FAIL</ErrorCode>
+    <ErrorCode>不良描述:BAND43,TxGainCali...</ErrorCode>
+    <ErrorCode>RxGain Calibration #1 Failed</ErrorCode>
+    <ErrorCode>不良描述:132_B43_RX_TEST_FAIL</ErrorCode>
+    <ErrorCode>不良描述:132_B42_RX_TEST_FAIL</ErrorCode>
+    <ErrorCode>模块在写号站未测过</ErrorCode>
+    <ErrorCode>不良原因:BAND42,TxGainCali...</ErrorCode>
+    <ErrorCode>不良描述:035_B42_TX0_TEST_FAIL</ErrorCode>
+    <ErrorCode>不良描述:031_B42_RX_TEST_FAIL</ErrorCode>
+    <ErrorCode>不良描述:134_B42_TX1_TEST_FAIL</ErrorCode>
+    <ErrorCode>不良原因:034_B42_TX0_TEST_FAIL</ErrorCode>
+  </Station>
+  <Station id="Check">
+  </Station>
+  <Station id="Packet">
+  </Station>
+</All_Station>

@@ -1,0 +1,9 @@
+E:\My_VS_Project\Log_Analysis_Tool\Log_Analysis_Tool\bin\Debug\Log_Analysis_Tool.exe
+E:\My_VS_Project\Log_Analysis_Tool\Log_Analysis_Tool\bin\Debug\Log_Analysis_Tool.pdb
+E:\My_VS_Project\Log_Analysis_Tool\Log_Analysis_Tool\obj\x86\Debug\Log_Analysis_Tool.MAIN_FORM.resources
+E:\My_VS_Project\Log_Analysis_Tool\Log_Analysis_Tool\obj\x86\Debug\Log_Analysis_Tool.Properties.Resources.resources
+E:\My_VS_Project\Log_Analysis_Tool\Log_Analysis_Tool\obj\x86\Debug\Log_Analysis_Tool.csproj.GenerateResource.Cache
+E:\My_VS_Project\Log_Analysis_Tool\Log_Analysis_Tool\obj\x86\Debug\Log_Analysis_Tool.exe
+E:\My_VS_Project\Log_Analysis_Tool\Log_Analysis_Tool\obj\x86\Debug\Log_Analysis_Tool.pdb
+E:\My_VS_Project\Log_Analysis_Tool\Log_Analysis_Tool\obj\x86\Debug\Log_Analysis_Tool.IndexSetting.resources
+E:\My_VS_Project\Log_Analysis_Tool\Log_Analysis_Tool\obj\x86\Debug\Log_Analysis_Tool.csproj.ResolveComReference.cache

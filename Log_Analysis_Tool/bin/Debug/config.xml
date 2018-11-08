@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<All_Station>
+  <Station id="写号">
+    <ErrorCode>服务器显示此模块已包装</ErrorCode>
+    <ErrorCode>服务器显示模块在"校准站"未测Pass</ErrorCode>
+  </Station>
+  <Station id="校准">
+    <ErrorCode>服务器显示此模块已包装</ErrorCode>
+  </Station>
+  <Station id="版本检测">
+    <ErrorCode>服务器显示此模块已包装</ErrorCode>
+    <ErrorCode>服务器显示模块在"校准站"未测Pass</ErrorCode>
+  </Station>
+  <Station id="包装">
+    <ErrorCode>服务器显示此模块已包装</ErrorCode>
+    <ErrorCode>服务器显示模块在"校准站"未测Pass</ErrorCode>
+  </Station>
+</All_Station>
